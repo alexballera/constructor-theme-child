@@ -1,7 +1,7 @@
 {
-  "name": "theme-child",
+  "name": "planisalud-dev",
   "version": "1.0.0",
-  "description": "Constructor de Theme Child WordPress",
+  "description": "Constructor Thme Child",
   "main": "gulpfile.babel.js",
   "scripts": {
     "lint": "standard",
@@ -19,16 +19,6 @@
     "presets": "env",
     "plugins": "transform-regenerator"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexballera/react-practica.git"
-  },
-  "author": "Alex Ballera <alexballera@gmail.com> (http://alexballera.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alexballera/react-practica/issues"
-  },
-  "homepage": "https://github.com/alexballera/react-practica#readme",
   "dependencies": {
     "babel-eslint": "^8.0.1",
     "jquery": "^3.2.1",
@@ -62,5 +52,15 @@
     "stream-series": "^0.1.1",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexballera/constructor-theme-child.git"
+  },
+  "author": "Alex Ballera <alexballera@gmail.com> (http://alexballera.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexballera/constructor-theme-child/issues"
+  },
+  "homepage": "https://github.com/alexballera/constructor-theme-child#readme"
 }
